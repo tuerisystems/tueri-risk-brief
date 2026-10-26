@@ -1,0 +1,9 @@
+.DS_Store
+*.log
+raw/
+**/sal-render.log
+**/whisper.txt
+**/pronunciations-check.md
+**/*-unleveled.mp3
+.env
+.env.*

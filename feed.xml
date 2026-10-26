@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tueri Systems Daily Risk Brief</title>
+    <link>https://tuerisystems.com</link>
+    <language>en-us</language>
+    <copyright>© Tueri Systems LLC</copyright>
+    <description>Free daily operational intelligence briefing from Tueri Systems. Distinguishes confirmed facts, reported developments, and claims. Not a live directory listing until Tueri authorizes public release.</description>
+    <itunes:author>Tueri Systems</itunes:author>
+    <itunes:summary>Free daily operational intelligence briefing from Tueri Systems.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Tueri Systems</itunes:name>
+      <itunes:email>contact@tuerisystems.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News">
+      <itunes:category text="Daily News"/>
+    </itunes:category>
+    <!-- Episodes will be added when authorized. Do not submit this feed to Apple/Spotify until release is green-lit. -->
+  </channel>
+</rss>
