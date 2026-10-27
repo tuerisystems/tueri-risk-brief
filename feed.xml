@@ -22,6 +22,16 @@
     <atom:link href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Daily Risk Brief — October 27, 2026</title>
+      <description>US Ebola attestation order and Uganda/South Sudan entry limits; Cyclone Arnab landfall forecast; Saudi intercepts and Riyadh airport; northern Gulf vessel-on-fire warning.</description>
+      <pubDate>Tue, 27 Oct 2026 05:55:00 -0500</pubDate>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-27</guid>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-27.mp3" length="2237036" type="audio/mpeg"/>
+      <itunes:duration>00:04:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://github.com/tuerisystems/tueri-risk-brief/blob/main/episodes/2026-10-27.md</link>
+    </item>
+    <item>
       <title>Daily Risk Brief — October 26, 2026</title>
       <description>Hormuz late-reported tanker strike; Houthi claim on Riyadh airport; Cyclone Arnab; Uganda Ebola border measures.</description>
       <pubDate>Mon, 26 Oct 2026 10:45:00 -0500</pubDate>
@@ -31,7 +41,6 @@
       <itunes:explicit>false</itunes:explicit>
       <link>https://github.com/tuerisystems/tueri-risk-brief/blob/main/episodes/2026-10-26.md</link>
     </item>
-
     <item>
       <title>Daily Risk Brief — October 25, 2026</title>
       <description>Riyadh airport partial reopening and intercepts; Iran drone claim; Crimea rolling blackouts.</description>
@@ -42,7 +51,6 @@
       <itunes:explicit>false</itunes:explicit>
       <link>https://github.com/tuerisystems/tueri-risk-brief/blob/main/episodes/2026-10-25.md</link>
     </item>
-
     <item>
       <title>Daily Risk Brief — October 24, 2026</title>
       <description>US embassy staffing thinned in the Middle East; Crimea power and internet disruption; Jordan after the Karak church attack.</description>
