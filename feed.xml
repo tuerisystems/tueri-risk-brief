@@ -1,65 +1,482 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:atom="http://www.w3.org/2005/Atom">
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:podcast="https://podcastindex.org/namespace/1.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tueri Systems Daily Risk Brief</title>
-    <link>https://tuerisystems.com</link>
+    <itunes:title>Tueri Systems Daily Risk Brief</itunes:title>
+    <itunes:subtitle>Operational clarity when conditions change</itunes:subtitle>
+    <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+    <atom:link href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <copyright>© Tueri Systems LLC</copyright>
-    <description>Free daily operational intelligence briefing from Tueri Systems. Distinguishes confirmed facts, reported developments, and claims. Do not submit this feed to Apple Podcasts or Spotify until Tueri authorizes public directory release.</description>
+    <copyright>© 2026 Tueri Systems LLC</copyright>
+    <description>Free daily operational intelligence briefing from Tueri Systems. Distinguishes confirmed facts, reported developments, and claims. Digitally narrated. Do not submit this feed to Apple Podcasts or Spotify until Tueri authorizes public directory release. Learn more at https://tuerisystems.com.</description>
+    <itunes:summary>Free daily operational intelligence briefing from Tueri Systems. Distinguishes confirmed facts, reported developments, and claims. Digitally narrated. Do not submit this feed to Apple Podcasts or Spotify until Tueri authorizes public directory release. Learn more at https://tuerisystems.com.</itunes:summary>
     <itunes:author>Tueri Systems</itunes:author>
-    <itunes:summary>Free daily operational intelligence briefing from Tueri Systems.</itunes:summary>
     <itunes:owner>
       <itunes:name>Tueri Systems</itunes:name>
       <itunes:email>contact@tuerisystems.com</itunes:email>
     </itunes:owner>
-    <itunes:explicit>false</itunes:explicit>
+    <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+    <image>
+      <url>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg</url>
+      <title>Tueri Systems Daily Risk Brief</title>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+    </image>
     <itunes:category text="News">
       <itunes:category text="Daily News"/>
     </itunes:category>
-    <atom:link href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/feed.xml" rel="self" type="application/rss+xml"/>
-
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <podcast:locked owner="contact@tuerisystems.com">no</podcast:locked>
+    <podcast:guid>5f3d2c67-4166-574f-b0f8-0f46cb83af29</podcast:guid>
+    <lastBuildDate>Sun, 08 Nov 2026 18:55:07 -0600</lastBuildDate>
+    <generator>Tueri publish_episode.py</generator>
+    <item>
+      <title>Daily Risk Brief — November 7, 2026</title>
+      <description><![CDATA[<ul>
+  <li>UKMTO 197: time-late report of an explosion at the waterline of a tanker outbound through Hormuz (UKMTO)</li>
+  <li>US Mission Saudi Arabia security alert urging heightened vigilance over Houthi and Iranian targeting threats (US Mission)</li>
+  <li>Hoax bomb threats again disrupt European flights and some newsrooms; no explosives found in reported cases</li>
+  <li>US Ebola attestation remains in force; Nigeria guidance updates where confirmed (CDC / US Embassy)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-07.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>UKMTO 197: time-late report of an explosion at the waterline of a tanker outbound through Hormuz (UKMTO)</li>
+  <li>US Mission Saudi Arabia security alert urging heightened vigilance over Houthi and Iranian targeting threats (US Mission)</li>
+  <li>Hoax bomb threats again disrupt European flights and some newsrooms; no explosives found in reported cases</li>
+  <li>US Ebola attestation remains in force; Nigeria guidance updates where confirmed (CDC / US Embassy)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-07.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>UKMTO 197: time-late report of an explosion at the waterline of a tanker outbound through Hormuz (UKMTO) US Mission Saudi Arabia security alert urging heightened vigilance over Houthi and Iranian targeting threats (US Mission) Hoax bomb threats again disrupt European flights and some newsrooms; no explosives found in reported cases US Ebola attestation remains in force; Nigeria guidance updates where confirmed (CDC / US Embassy) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-07.mp3" length="4860908" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>05:04</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-07.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-07.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-07.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — November 6, 2026</title>
+      <description><![CDATA[<ul>
+  <li>JMIC Update 111 (cutoff Thursday Nov 5, 7 a.m. Central): Hormuz assessed severe; Arabian Gulf substantial (JMIC)</li>
+  <li>Houthi claim of a drone hit on Dammam's King Fahd International Airport remains claim only</li>
+  <li>European bomb-scare diversions continue, including a Prague-Rome flight diverted to Venice (media / local authorities)</li>
+  <li>US Ebola attestation and Nigeria entry-health measures remain in force where stated (CDC / NCDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-06.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>JMIC Update 111 (cutoff Thursday Nov 5, 7 a.m. Central): Hormuz assessed severe; Arabian Gulf substantial (JMIC)</li>
+  <li>Houthi claim of a drone hit on Dammam's King Fahd International Airport remains claim only</li>
+  <li>European bomb-scare diversions continue, including a Prague-Rome flight diverted to Venice (media / local authorities)</li>
+  <li>US Ebola attestation and Nigeria entry-health measures remain in force where stated (CDC / NCDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-06.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>JMIC Update 111 (cutoff Thursday Nov 5, 7 a.m. Central): Hormuz assessed severe; Arabian Gulf substantial (JMIC) Houthi claim of a drone hit on Dammam&#x27;s King Fahd International Airport remains claim only European bomb-scare diversions continue, including a Prague-Rome flight diverted to Venice (media / local authorities) US Ebola attestation and Nigeria entry-health measures remain in force where stated (CDC / NCDC) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-06.mp3" length="4523197" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:43</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-06.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-06.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-06.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — November 5, 2026</title>
+      <description><![CDATA[<ul>
+  <li>UKMTO 196-26: tanker struck about 50 NM north of Qatar; crew/damage unconfirmed at warning time (UKMTO)</li>
+  <li>Houthi claim of a ballistic missile strike on Riyadh's King Khalid International Airport remains claim only</li>
+  <li>IMD: Murasu remnant further weakened over east Telangana and coastal Andhra Pradesh (IMD)</li>
+  <li>Canada still describes a Belize 30-day state of emergency from Oct 31; US Ebola attestation remains in force (Travel.gc.ca / CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-05.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>UKMTO 196-26: tanker struck about 50 NM north of Qatar; crew/damage unconfirmed at warning time (UKMTO)</li>
+  <li>Houthi claim of a ballistic missile strike on Riyadh's King Khalid International Airport remains claim only</li>
+  <li>IMD: Murasu remnant further weakened over east Telangana and coastal Andhra Pradesh (IMD)</li>
+  <li>Canada still describes a Belize 30-day state of emergency from Oct 31; US Ebola attestation remains in force (Travel.gc.ca / CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-05.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>UKMTO 196-26: tanker struck about 50 NM north of Qatar; crew/damage unconfirmed at warning time (UKMTO) Houthi claim of a ballistic missile strike on Riyadh&#x27;s King Khalid International Airport remains claim only IMD: Murasu remnant further weakened over east Telangana and coastal Andhra Pradesh (IMD) Canada still describes a Belize 30-day state of emergency from Oct 31; US Ebola attestation remains in force (Travel.gc.ca / CDC) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-05.mp3" length="4512330" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:42</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-05.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-05.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-05.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — November 4, 2026</title>
+      <description><![CDATA[<ul>
+  <li>UKMTO: tanker struck by two projectiles off Oman's northern tip; no casualties reported in the warning (UKMTO)</li>
+  <li>IMD: Murasu remnant weakened to a low over Telangana and coastal Andhra Pradesh after extreme rain (IMD)</li>
+  <li>State Department restatement of the US Mission Saudi airport-attack warning (State / US Mission)</li>
+  <li>US Ebola attestation rule now in force for flights to the United States (CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-04.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>UKMTO: tanker struck by two projectiles off Oman's northern tip; no casualties reported in the warning (UKMTO)</li>
+  <li>IMD: Murasu remnant weakened to a low over Telangana and coastal Andhra Pradesh after extreme rain (IMD)</li>
+  <li>State Department restatement of the US Mission Saudi airport-attack warning (State / US Mission)</li>
+  <li>US Ebola attestation rule now in force for flights to the United States (CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-04.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>UKMTO: tanker struck by two projectiles off Oman&#x27;s northern tip; no casualties reported in the warning (UKMTO) IMD: Murasu remnant weakened to a low over Telangana and coastal Andhra Pradesh after extreme rain (IMD) State Department restatement of the US Mission Saudi airport-attack warning (State / US Mission) US Ebola attestation rule now in force for flights to the United States (CDC) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-04.mp3" length="4724653" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:55</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-04.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-04.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-04.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — November 3, 2026</title>
+      <description><![CDATA[<ul>
+  <li>UKMTO: vessel struck about 9 NM off Oman's northern tip; hole in side; crew/vessel status per warning (UKMTO)</li>
+  <li>IMD: Cyclone Murasu crossed the south Andhra Pradesh coast early Tuesday (IMD)</li>
+  <li>US Mission Saudi Arabia security alert warning of potential airport attacks and airspace disruption (US Mission)</li>
+  <li>US Ebola attestation rule takes effect late Tuesday Eastern (CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-03.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>UKMTO: vessel struck about 9 NM off Oman's northern tip; hole in side; crew/vessel status per warning (UKMTO)</li>
+  <li>IMD: Cyclone Murasu crossed the south Andhra Pradesh coast early Tuesday (IMD)</li>
+  <li>US Mission Saudi Arabia security alert warning of potential airport attacks and airspace disruption (US Mission)</li>
+  <li>US Ebola attestation rule takes effect late Tuesday Eastern (CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-03.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>UKMTO: vessel struck about 9 NM off Oman&#x27;s northern tip; hole in side; crew/vessel status per warning (UKMTO) IMD: Cyclone Murasu crossed the south Andhra Pradesh coast early Tuesday (IMD) US Mission Saudi Arabia security alert warning of potential airport attacks and airspace disruption (US Mission) US Ebola attestation rule takes effect late Tuesday Eastern (CDC) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-03.mp3" length="4588398" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-03.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-03.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-03.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — November 2, 2026</title>
+      <description><![CDATA[<ul>
+  <li>UKMTO: vessel struck by an unknown projectile in the Strait of Hormuz after a master Mayday relay (UKMTO)</li>
+  <li>IMD: Severe Cyclonic Storm Murasu forecast to cross the south Andhra Pradesh coast overnight into Tuesday (IMD)</li>
+  <li>Northern Peru power outage linked to a high-voltage line fault near Trujillo (local utility media)</li>
+  <li>Riyadh airport still showing material cancellation rates on Flightradar24</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-02.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>UKMTO: vessel struck by an unknown projectile in the Strait of Hormuz after a master Mayday relay (UKMTO)</li>
+  <li>IMD: Severe Cyclonic Storm Murasu forecast to cross the south Andhra Pradesh coast overnight into Tuesday (IMD)</li>
+  <li>Northern Peru power outage linked to a high-voltage line fault near Trujillo (local utility media)</li>
+  <li>Riyadh airport still showing material cancellation rates on Flightradar24</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-02.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>UKMTO: vessel struck by an unknown projectile in the Strait of Hormuz after a master Mayday relay (UKMTO) IMD: Severe Cyclonic Storm Murasu forecast to cross the south Andhra Pradesh coast overnight into Tuesday (IMD) Northern Peru power outage linked to a high-voltage line fault near Trujillo (local utility media) Riyadh airport still showing material cancellation rates on Flightradar24 Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-02.mp3" length="4773554" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-11-02</guid>
+      <pubDate>Mon, 02 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-02.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-02.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-02.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — November 1, 2026</title>
+      <description><![CDATA[<ul>
+  <li>NCDC: two suspected Ebola cases in Yola tested negative; Abuja remains Nigeria's only confirmed case; entry measures unchanged (NCDC)</li>
+  <li>FCDO: Galapagos regional emergency after Santa Cruz flooding, with road, power, and Baltra airport access disruption (FCDO / US Embassy)</li>
+  <li>US Embassy Moscow warned of a credible mass-casualty threat at a large museum park; Russian media say the site was closed (US Embassy / media)</li>
+  <li>UKMTO: large fishing vessel boarded off the Horn of Africa; concern it could support a pirate action group (UKMTO)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-01.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>NCDC: two suspected Ebola cases in Yola tested negative; Abuja remains Nigeria's only confirmed case; entry measures unchanged (NCDC)</li>
+  <li>FCDO: Galapagos regional emergency after Santa Cruz flooding, with road, power, and Baltra airport access disruption (FCDO / US Embassy)</li>
+  <li>US Embassy Moscow warned of a credible mass-casualty threat at a large museum park; Russian media say the site was closed (US Embassy / media)</li>
+  <li>UKMTO: large fishing vessel boarded off the Horn of Africa; concern it could support a pirate action group (UKMTO)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-01.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>NCDC: two suspected Ebola cases in Yola tested negative; Abuja remains Nigeria&#x27;s only confirmed case; entry measures unchanged (NCDC) FCDO: Galapagos regional emergency after Santa Cruz flooding, with road, power, and Baltra airport access disruption (FCDO / US Embassy) US Embassy Moscow warned of a credible mass-casualty threat at a large museum park; Russian media say the site was closed (US Embassy / media) UKMTO: large fishing vessel boarded off the Horn of Africa; concern it could support a pirate action group (UKMTO) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-01.mp3" length="4708353" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:54</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-01.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-01.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-01.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — October 31, 2026</title>
+      <description><![CDATA[<ul>
+  <li>UKMTO: vessel hit by an unknown projectile about 40 NM off Iran inside the Arabian Gulf; fire reported, crew safe (UKMTO)</li>
+  <li>US Embassy Honduras security alert on a reported threat to bridges and access around Puerto Cortes; Honduran minister says it may be a false alarm</li>
+  <li>Mayon volcano raised to alert level three after an explosive eruption; 6 km danger zone evacuation recommended (PHIVOLCS via embassy/media)</li>
+  <li>FCDO: violence around Moyale affects the Ethiopia-Kenya border crossing; stay on the main A2 if crossing (FCDO)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-31.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>UKMTO: vessel hit by an unknown projectile about 40 NM off Iran inside the Arabian Gulf; fire reported, crew safe (UKMTO)</li>
+  <li>US Embassy Honduras security alert on a reported threat to bridges and access around Puerto Cortes; Honduran minister says it may be a false alarm</li>
+  <li>Mayon volcano raised to alert level three after an explosive eruption; 6 km danger zone evacuation recommended (PHIVOLCS via embassy/media)</li>
+  <li>FCDO: violence around Moyale affects the Ethiopia-Kenya border crossing; stay on the main A2 if crossing (FCDO)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-31.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>UKMTO: vessel hit by an unknown projectile about 40 NM off Iran inside the Arabian Gulf; fire reported, crew safe (UKMTO) US Embassy Honduras security alert on a reported threat to bridges and access around Puerto Cortes; Honduran minister says it may be a false alarm Mayon volcano raised to alert level three after an explosive eruption; 6 km danger zone evacuation recommended (PHIVOLCS via embassy/media) FCDO: violence around Moyale affects the Ethiopia-Kenya border crossing; stay on the main A2 if crossing (FCDO) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-31.mp3" length="4893509" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:00:00 -0500</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>05:06</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-31.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-31.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-31.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — October 30, 2026</title>
+      <description><![CDATA[<ul>
+  <li>UKMTO: two outbound tanker incidents in the Strait of Hormuz on Thursday, including one struck by a projectile and another with explosive devices attached (UKMTO)</li>
+  <li>Houthi claim of multiple Saudi airport and oil-facility attacks remains claim only; coalition reports intercepts (Houthi / coalition)</li>
+  <li>Madrid to Andalusia high-speed replacement service not expected before Tuesday Nov 3; line still closed (Renfe via reporting)</li>
+  <li>Amended US Ebola attestation order published in the Federal Register; applies from late Tuesday Eastern through Dec 18 (Federal Register / CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-30.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>UKMTO: two outbound tanker incidents in the Strait of Hormuz on Thursday, including one struck by a projectile and another with explosive devices attached (UKMTO)</li>
+  <li>Houthi claim of multiple Saudi airport and oil-facility attacks remains claim only; coalition reports intercepts (Houthi / coalition)</li>
+  <li>Madrid to Andalusia high-speed replacement service not expected before Tuesday Nov 3; line still closed (Renfe via reporting)</li>
+  <li>Amended US Ebola attestation order published in the Federal Register; applies from late Tuesday Eastern through Dec 18 (Federal Register / CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-30.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>UKMTO: two outbound tanker incidents in the Strait of Hormuz on Thursday, including one struck by a projectile and another with explosive devices attached (UKMTO) Houthi claim of multiple Saudi airport and oil-facility attacks remains claim only; coalition reports intercepts (Houthi / coalition) Madrid to Andalusia high-speed replacement service not expected before Tuesday Nov 3; line still closed (Renfe via reporting) Amended US Ebola attestation order published in the Federal Register; applies from late Tuesday Eastern through Dec 18 (Federal Register / CDC) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-30.mp3" length="4539497" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 06:00:00 -0500</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-30.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-30.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-30.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — October 29, 2026</title>
+      <description><![CDATA[<ul>
+  <li>High-speed train collision near Urda, Spain; Madrid to Andalusia high-speed line suspended with no reopening date reported (Adif / Renfe via media)</li>
+  <li>Houthi missiles reported at Aden airport perimeter; air traffic halted and civilian injuries reported (Yemeni authorities / media)</li>
+  <li>UKMTO suspicious-activity warning: vessel on fire in the Strait of Hormuz off Oman; attack not confirmed (UKMTO)</li>
+  <li>CDC amended Ebola attestation order extends the rule to everyone on board flights to the US, including crew (CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-29.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>High-speed train collision near Urda, Spain; Madrid to Andalusia high-speed line suspended with no reopening date reported (Adif / Renfe via media)</li>
+  <li>Houthi missiles reported at Aden airport perimeter; air traffic halted and civilian injuries reported (Yemeni authorities / media)</li>
+  <li>UKMTO suspicious-activity warning: vessel on fire in the Strait of Hormuz off Oman; attack not confirmed (UKMTO)</li>
+  <li>CDC amended Ebola attestation order extends the rule to everyone on board flights to the US, including crew (CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-29.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>High-speed train collision near Urda, Spain; Madrid to Andalusia high-speed line suspended with no reopening date reported (Adif / Renfe via media) Houthi missiles reported at Aden airport perimeter; air traffic halted and civilian injuries reported (Yemeni authorities / media) UKMTO suspicious-activity warning: vessel on fire in the Strait of Hormuz off Oman; attack not confirmed (UKMTO) CDC amended Ebola attestation order extends the rule to everyone on board flights to the US, including crew (CDC) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-29.mp3" length="4544931" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-29</guid>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 -0500</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:44</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-29.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-29.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-29.html" type="text/html" language="en"/>
+    </item>
+    <item>
+      <title>Daily Risk Brief — October 28, 2026</title>
+      <description><![CDATA[<ul>
+  <li>Cyclone Arnab crossed the Andhra Pradesh coast and is weakening inland, with reported deaths, camps, and travel disruption (IMD via reporting)</li>
+  <li>Saudi-led coalition reports intercepts over Eastern Province and Riyadh; debris damage reported; Houthi Ras Tanura hit remains claim only</li>
+  <li>JMIC advisory note on US questioning and search of vessels near Iranian ports; Hormuz threat rated severe in the latest weekly assessment (JMIC)</li>
+  <li>Nigeria NCDC health declaration for international arrivals; El Salvador quarantine rule for recent travel to listed African countries (NCDC / FCDO)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-28.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>Cyclone Arnab crossed the Andhra Pradesh coast and is weakening inland, with reported deaths, camps, and travel disruption (IMD via reporting)</li>
+  <li>Saudi-led coalition reports intercepts over Eastern Province and Riyadh; debris damage reported; Houthi Ras Tanura hit remains claim only</li>
+  <li>JMIC advisory note on US questioning and search of vessels near Iranian ports; Hormuz threat rated severe in the latest weekly assessment (JMIC)</li>
+  <li>Nigeria NCDC health declaration for international arrivals; El Salvador quarantine rule for recent travel to listed African countries (NCDC / FCDO)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-28.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>Cyclone Arnab crossed the Andhra Pradesh coast and is weakening inland, with reported deaths, camps, and travel disruption (IMD via reporting) Saudi-led coalition reports intercepts over Eastern Province and Riyadh; debris damage reported; Houthi Ras Tanura hit remains claim only JMIC advisory note on US questioning and search of vessels near Iranian ports; Hormuz threat rated severe in the latest weekly assessment (JMIC) Nigeria NCDC health declaration for international arrivals; El Salvador quarantine rule for recent travel to listed African countries (NCDC / FCDO) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-28.mp3" length="2386796" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 -0500</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:58</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-28.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-28.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-28.html" type="text/html" language="en"/>
+    </item>
     <item>
       <title>Daily Risk Brief — October 27, 2026</title>
-      <description>US Ebola attestation order and Uganda/South Sudan entry limits; Cyclone Arnab landfall forecast; Saudi intercepts and Riyadh airport; northern Gulf vessel-on-fire warning.</description>
-      <pubDate>Tue, 27 Oct 2026 05:55:00 -0500</pubDate>
-      <guid isPermaLink="false">tueri-risk-brief-2026-10-27</guid>
+      <description><![CDATA[<ul>
+  <li>US CDC attestation order for DRC travel history (effective Nov 3) and existing Uganda / South Sudan entry limits (CDC / Federal Register)</li>
+  <li>Cyclone Arnab landfall forecast for Andhra Pradesh coast (IMD)</li>
+  <li>Saudi-led coalition reports missile and drone intercepts; Riyadh airport still a partial reopening with observed disruption (SPA / Flightradar24)</li>
+  <li>UKMTO warning: vessel on fire SE of Al-Faw, listed as suspicious activity, not a confirmed attack (UKMTO 183-26)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-27.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>US CDC attestation order for DRC travel history (effective Nov 3) and existing Uganda / South Sudan entry limits (CDC / Federal Register)</li>
+  <li>Cyclone Arnab landfall forecast for Andhra Pradesh coast (IMD)</li>
+  <li>Saudi-led coalition reports missile and drone intercepts; Riyadh airport still a partial reopening with observed disruption (SPA / Flightradar24)</li>
+  <li>UKMTO warning: vessel on fire SE of Al-Faw, listed as suspicious activity, not a confirmed attack (UKMTO 183-26)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-27.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>US CDC attestation order for DRC travel history (effective Nov 3) and existing Uganda / South Sudan entry limits (CDC / Federal Register) Cyclone Arnab landfall forecast for Andhra Pradesh coast (IMD) Saudi-led coalition reports missile and drone intercepts; Riyadh airport still a partial reopening with observed disruption (SPA / Flightradar24) UKMTO warning: vessel on fire SE of Al-Faw, listed as suspicious activity, not a confirmed attack (UKMTO 183-26) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
       <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-27.mp3" length="2237036" type="audio/mpeg"/>
-      <itunes:duration>00:04:40</itunes:duration>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 05:55:00 -0500</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:40</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://github.com/tuerisystems/tueri-risk-brief/blob/main/episodes/2026-10-27.md</link>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-27.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-27.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-27.html" type="text/html" language="en"/>
     </item>
     <item>
       <title>Daily Risk Brief — October 26, 2026</title>
-      <description>Hormuz late-reported tanker strike; Houthi claim on Riyadh airport; Cyclone Arnab; Uganda Ebola border measures.</description>
-      <pubDate>Mon, 26 Oct 2026 10:45:00 -0500</pubDate>
-      <guid isPermaLink="false">tueri-risk-brief-2026-10-26</guid>
+      <description><![CDATA[<p>Hormuz late-reported tanker strike; Houthi claim on Riyadh airport; Cyclone Arnab; Uganda Ebola border measures.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-26.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Hormuz late-reported tanker strike; Houthi claim on Riyadh airport; Cyclone Arnab; Uganda Ebola border measures.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-26.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>Hormuz late-reported tanker strike; Houthi claim on Riyadh airport; Cyclone Arnab; Uganda Ebola border measures.</itunes:summary>
       <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-26.mp3" length="4588398" type="audio/mpeg"/>
-      <itunes:duration>00:04:47</itunes:duration>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 -0500</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:47</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://github.com/tuerisystems/tueri-risk-brief/blob/main/episodes/2026-10-26.md</link>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-26.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-26.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-26.html" type="text/html" language="en"/>
     </item>
     <item>
       <title>Daily Risk Brief — October 25, 2026</title>
-      <description>Riyadh airport partial reopening and intercepts; Iran drone claim; Crimea rolling blackouts.</description>
-      <pubDate>Sun, 25 Oct 2026 07:45:00 -0500</pubDate>
-      <guid isPermaLink="false">tueri-risk-brief-2026-10-25</guid>
+      <description><![CDATA[<p>Riyadh airport partial reopening and intercepts; Iran drone claim; Crimea rolling blackouts.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-25.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<p>Riyadh airport partial reopening and intercepts; Iran drone claim; Crimea rolling blackouts.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-25.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>Riyadh airport partial reopening and intercepts; Iran drone claim; Crimea rolling blackouts.</itunes:summary>
       <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-25.mp3" length="4822700" type="audio/mpeg"/>
-      <itunes:duration>00:05:01</itunes:duration>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 06:00:00 -0500</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>05:01</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://github.com/tuerisystems/tueri-risk-brief/blob/main/episodes/2026-10-25.md</link>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-25.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-25.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-25.html" type="text/html" language="en"/>
     </item>
     <item>
       <title>Daily Risk Brief — October 24, 2026</title>
-      <description>US embassy staffing thinned in the Middle East; Crimea power and internet disruption; Jordan after the Karak church attack.</description>
-      <pubDate>Sat, 24 Oct 2026 18:30:00 -0500</pubDate>
-      <guid isPermaLink="false">tueri-risk-brief-2026-10-24</guid>
+      <description><![CDATA[<p>US embassy staffing thinned in the Middle East; Crimea power and internet disruption; Jordan after the Karak church attack.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-24.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<p>US embassy staffing thinned in the Middle East; Crimea power and internet disruption; Jordan after the Karak church attack.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-24.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>US embassy staffing thinned in the Middle East; Crimea power and internet disruption; Jordan after the Karak church attack.</itunes:summary>
       <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-10-24.mp3" length="4256300" type="audio/mpeg"/>
-      <itunes:duration>00:04:26</itunes:duration>
+      <guid isPermaLink="false">tueri-risk-brief-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 06:00:00 -0500</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>04:26</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
-      <link>https://github.com/tuerisystems/tueri-risk-brief/blob/main/episodes/2026-10-24.md</link>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-24.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-24.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-10-24.html" type="text/html" language="en"/>
     </item>
   </channel>
 </rss>
