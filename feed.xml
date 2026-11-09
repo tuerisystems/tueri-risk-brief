@@ -32,8 +32,40 @@
     <itunes:type>episodic</itunes:type>
     <podcast:locked owner="contact@tuerisystems.com">no</podcast:locked>
     <podcast:guid>5f3d2c67-4166-574f-b0f8-0f46cb83af29</podcast:guid>
-    <lastBuildDate>Sun, 08 Nov 2026 18:56:20 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 18:56:27 -0600</lastBuildDate>
     <generator>Tueri publish_episode.py</generator>
+    <item>
+      <title>Daily Risk Brief — November 8, 2026</title>
+      <description><![CDATA[<ul>
+  <li>UKMTO 199: time-late report of a tanker on fire about 8 NM off northern Oman (UKMTO)</li>
+  <li>Saudi energy ministry: Aramco administrative building in Riyadh damaged by falling debris after an attempted attack; damage described as limited</li>
+  <li>Shooting in Krakow's main square confirmed by State Department and FCDO; suspect reported in custody (State / FCDO / local police)</li>
+  <li>US Ebola attestation remains in force; other entry-health measures unchanged where checked (CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-08.html">Read the full transcript</a></p>]]></description>
+      <content:encoded><![CDATA[<ul>
+  <li>UKMTO 199: time-late report of a tanker on fire about 8 NM off northern Oman (UKMTO)</li>
+  <li>Saudi energy ministry: Aramco administrative building in Riyadh damaged by falling debris after an attempted attack; damage described as limited</li>
+  <li>Shooting in Krakow's main square confirmed by State Department and FCDO; suspect reported in custody (State / FCDO / local police)</li>
+  <li>US Ebola attestation remains in force; other entry-health measures unchanged where checked (CDC)</li>
+</ul>
+<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>
+<p><a href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-08.html">Read the full transcript</a></p>]]></content:encoded>
+      <itunes:summary>UKMTO 199: time-late report of a tanker on fire about 8 NM off northern Oman (UKMTO) Saudi energy ministry: Aramco administrative building in Riyadh damaged by falling debris after an attempted attack; damage described as limited Shooting in Krakow&#x27;s main square confirmed by State Department and FCDO; suspect reported in custody (State / FCDO / local police) US Ebola attestation remains in force; other entry-health measures unchanged where checked (CDC) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</itunes:summary>
+      <enclosure url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-08.mp3" length="5143866" type="audio/mpeg"/>
+      <guid isPermaLink="false">tueri-risk-brief-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 -0600</pubDate>
+      <link>https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/</link>
+      <itunes:duration>05:21</itunes:duration>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Tueri Systems</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/cover.jpg"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-08.vtt" type="text/vtt" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-08.txt" type="text/plain" language="en"/>
+      <podcast:transcript url="https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/episodes/tueri-risk-brief-2026-11-08.html" type="text/html" language="en"/>
+    </item>
     <item>
       <title>Daily Risk Brief — November 7, 2026</title>
       <description><![CDATA[<ul>

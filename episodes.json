@@ -1,5 +1,19 @@
 [
   {
+    "date": "2026-11-08",
+    "guid": "tueri-risk-brief-2026-11-08",
+    "title": "Daily Risk Brief \u2014 November 8, 2026",
+    "url": "https://raw.githubusercontent.com/tuerisystems/tueri-risk-brief/main/audio/tueri-systems-risk-brief-2026-11-08.mp3",
+    "length": 5143866,
+    "duration": "05:21",
+    "pubDate": "Sun, 08 Nov 2026 06:00:00 -0600",
+    "notes_html": "<ul>\n  <li>UKMTO 199: time-late report of a tanker on fire about 8 NM off northern Oman (UKMTO)</li>\n  <li>Saudi energy ministry: Aramco administrative building in Riyadh damaged by falling debris after an attempted attack; damage described as limited</li>\n  <li>Shooting in Krakow's main square confirmed by State Department and FCDO; suspect reported in custody (State / FCDO / local police)</li>\n  <li>US Ebola attestation remains in force; other entry-health measures unchanged where checked (CDC)</li>\n</ul>\n<p>Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.</p>",
+    "notes_text": "UKMTO 199: time-late report of a tanker on fire about 8 NM off northern Oman (UKMTO) Saudi energy ministry: Aramco administrative building in Riyadh damaged by falling debris after an attempted attack; damage described as limited Shooting in Krakow's main square confirmed by State Department and FCDO; suspect reported in custody (State / FCDO / local police) US Ebola attestation remains in force; other entry-health measures unchanged where checked (CDC) Tueri summarizes public reporting. Not legal, medical, or security advice for a specific situation. Check the original source before you act.",
+    "transcript_source": "/workspace/tueri-brief/2026-11-08/voice.txt",
+    "transcript_vtt": true,
+    "has_transcript": true
+  },
+  {
     "date": "2026-11-07",
     "guid": "tueri-risk-brief-2026-11-07",
     "title": "Daily Risk Brief \u2014 November 7, 2026",
